@@ -1,0 +1,11 @@
+resturants=6
+i=1
+j=1
+while i<resturants:
+    print(i)
+    i+=1
+else:
+    while j<2:
+        print(j) 
+        j=j+1
+    print('no Veg resturants found')
