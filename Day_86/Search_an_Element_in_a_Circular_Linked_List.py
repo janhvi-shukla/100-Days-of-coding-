@@ -6,7 +6,7 @@ class Node:
 		
 class CircularLinkedList: 
 	
-	# Declaring Circular Linked List 
+
 	def __init__(self):	 
 		self.head = Node(None);	 
 		self.tail = Node(None);	 
